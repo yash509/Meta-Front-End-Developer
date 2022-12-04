@@ -2,5 +2,11 @@
     "editor.defaultFormatter": "kiteco.kite",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
-    "eslint.format.enable": true
+    "eslint.format.enable": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    }
 }

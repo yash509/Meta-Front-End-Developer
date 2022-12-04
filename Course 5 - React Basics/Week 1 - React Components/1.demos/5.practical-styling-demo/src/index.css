@@ -1,0 +1,44 @@
+.App {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: calc(100vh - 160px);
+}
+
+.App .content {
+	flex-direction: row;
+	margin: 10px 0;
+}
+
+body {
+	margin: 20px;
+	font-size: 16px;
+}
+
+div {
+	display: flex;
+	flex-direction: column;
+	min-height: calc(100vh - 160px);
+}
+
+div div {
+	flex-direction: row;
+	margin-top: 10px;
+
+}
+
+aside {
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	padding: 20px;
+}
+
+main {
+	width: calc(70% - 10px);
+	background: lightgoldenrodyellow;
+}
+
+header {
+	background: wheat;
+	height: 70px;
+}
