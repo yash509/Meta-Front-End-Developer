@@ -72,3 +72,7 @@ Save and view the app in the browser.
 ### **Tip**
 
 If you’re having trouble with this lab, please review the "Expressions as props" video lesson item.
+
+## Demo
+
+<img src="./public/demo.png">
