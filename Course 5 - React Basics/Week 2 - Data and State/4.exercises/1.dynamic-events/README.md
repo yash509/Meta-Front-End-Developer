@@ -35,3 +35,7 @@ Save your changes and run the app. Preview it in the browser. You should be able
 ## **Tip**
 
 If you’re having trouble with this lab, please review the "User events" video lesson item.  This video covers all of the basics of event handling that you need to solve this ungraded lab.
+
+## Demo
+
+<img src="./public/demo.png">
