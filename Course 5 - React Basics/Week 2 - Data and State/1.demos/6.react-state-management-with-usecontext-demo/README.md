@@ -1,4 +1,4 @@
-# React State Management Demo
+# React State Management with useContext Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
