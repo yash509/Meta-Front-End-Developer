@@ -28,7 +28,7 @@
   * Week 3: [Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment)
 - Course 5: [React Basics](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics)
   * Week 1: [React Components](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%201%20-%20React%20Components)
-  * Week 2: 
+  * Week 2: [Data and State](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%202%20-%20Data%20and%20State)
   * Week 3: 
   * Week 4: 
   * Week 5: 
