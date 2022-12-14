@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nav {
+  background-color: pink;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.nav-item {
+  color: white;
+  text-decoration: none;
+  padding: 1em;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
