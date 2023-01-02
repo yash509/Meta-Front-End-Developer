@@ -1,4 +1,4 @@
-# Targeted CSS
+# Lab: Targeted CSS
 
 ## Introduction
 

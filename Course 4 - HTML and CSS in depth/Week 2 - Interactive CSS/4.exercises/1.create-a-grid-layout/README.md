@@ -1,4 +1,4 @@
-# Create a grid layout
+# Lab: Create a grid layout
 
 ## Introduction
 

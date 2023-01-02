@@ -1,4 +1,4 @@
-# Transforming and transitioning elements
+# Lab: Transforming and transitioning elements
 
 ## Introduction
 
