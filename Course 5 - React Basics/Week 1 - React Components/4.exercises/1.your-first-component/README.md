@@ -1,4 +1,4 @@
-# Your first component
+# Exercise: Your first component
 
 ## Task
 

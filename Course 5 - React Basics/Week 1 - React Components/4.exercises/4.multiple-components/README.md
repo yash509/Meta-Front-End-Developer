@@ -1,3 +1,5 @@
+# Exercise: Multiple components
+
 ## Task
 
 You've learned that components in React allow for modularity and reuse, with the ability to make data more dynamic by passing it from the parent to the child using props.
