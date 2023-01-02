@@ -1,4 +1,6 @@
-# Task
+# Exercise: Creating a route
+
+## Task
 You are using the code similar to the lesson item titled *The Navbar*. Your goal is to add another link to the existing code. This link should show a brand new component, named Contact.
 
 ## Instructions
