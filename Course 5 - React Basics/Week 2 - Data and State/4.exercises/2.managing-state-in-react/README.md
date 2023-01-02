@@ -1,4 +1,6 @@
-# Task
+# Exercise: Managing state in React
+
+## Task
 
 In the starter code of this code lab, you are given a Fruits component that has its own state. Based on this state, it outputs three fruits on the screen. Additionally, you have a FruitsCounter component which shows a message that reads: "Total fruits: 2".
 
