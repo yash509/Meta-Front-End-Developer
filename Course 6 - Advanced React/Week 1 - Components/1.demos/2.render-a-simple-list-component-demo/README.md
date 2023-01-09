@@ -72,5 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## App Preview
 
 <img src="./public/demo.png">
-
-Examine the console output by opening up the dev tool.
