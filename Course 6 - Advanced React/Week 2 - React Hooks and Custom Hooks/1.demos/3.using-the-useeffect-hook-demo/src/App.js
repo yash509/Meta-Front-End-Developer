@@ -8,6 +8,10 @@ function App() {
     setToggle(!toggle);
   }
 
+  React.useEffect(() => {
+    document.title = toggle ? "Welcome to Little Lemon" : "Using the useEffect hook"
+  }, [toggle]);
+
   return (
     <div>
       <h1>Using the useEffect hook</h1>
