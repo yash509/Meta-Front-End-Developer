@@ -52,9 +52,9 @@ The `usePrevious()` function should return the `ref.current` value.
 Save the changes and run the app.
 
 Use the checklist below to verify that the completed app is behaving as required:
-1. It shows a heading that reads: "Today is: Monday"
-2. When the user clicks the "Get next day" button, this updates the heading, which now spans two lines.
-3. The first line of the updated heading now reads "Today is: Tuesday", and the second line reads "Previous work day was: Monday".
+1. It shows a heading that reads: `"Today is: Monday"`
+2. When the user clicks the `"Get next day"` button, this updates the heading, which now spans two lines.
+3. The first line of the updated heading now reads `"Today is: Tuesday", and the second line reads "Previous work day was: Monday"`.
 
 ## App Preview
 
