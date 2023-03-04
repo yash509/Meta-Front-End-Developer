@@ -32,11 +32,10 @@
   * Week 3: [Navigation, Updating and Assets in React.js](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%203%20-%20Navigation%2C%20Updating%20and%20Assets%20in%20React.js)
   * Week 4: [Your first React app](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%204%20-%20Your%20first%20React%20app)
 - Course 6: [Advanced React](https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer) (Release Date: Nov 21st, 2022)
-  * Week 1: 
-  * Week 2: 
-  * Week 3: 
+  * Week 1: [Components](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%201%20-%20Components)
+  * Week 2: [React Hooks and Custom Hooks](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%202%20-%20React%20Hooks%20and%20Custom%20Hooks)
+  * Week 3: [JSX and testing](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%203%20-%20JSX%20and%20testing)
   * Week 4: 
-  * Week 5: 
 - Course 7: [Principles of UI/UX Design](https://www.coursera.org/learn/principles-of-ui-ux-design?specialization=meta-front-end-developer) (Release Date: Oct 31st, 2022)
   * Week 1: 
   * Week 2: 
